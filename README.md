@@ -1,5 +1,5 @@
 # user-microservice
-O MicroServiço **user-microservice** foi desenvolvido para operar em conjunto com o MicroServiço **account-microservice**. 
+O MicroServiço **user-microservice** foi desenvolvido para operar em conjunto com o MicroServiço [**account-microservice**](https://github.com/GuiTodys/account-microservice.git). 
 <h3>Descrição dos EndPoints</h3>
 <strong>createUser</strong>: Cria um novo usuário.</br>
 <strong>getUserById</strong>: Retorna um usuário encontrado pelo id.</br>
